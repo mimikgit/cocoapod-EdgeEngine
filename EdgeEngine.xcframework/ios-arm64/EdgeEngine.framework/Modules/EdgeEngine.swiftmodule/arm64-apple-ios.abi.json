@@ -1,0 +1,4597 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "EdgeEngineClient",
+        "printedName": "EdgeEngineClient",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(manageRuntime:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "EdgeEngine.EdgeEngineClient?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "EdgeEngineClient",
+                    "printedName": "EdgeEngine.EdgeEngineClient",
+                    "usr": "c:@M@EdgeEngine@objc(cs)EdgeEngineClient"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10EdgeEngine0aB6ClientC13manageRuntimeACSgSb_tcfc",
+            "mangledName": "$s10EdgeEngine0aB6ClientC13manageRuntimeACSgSb_tcfc",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Required",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "EdgeEngineClient",
+                "printedName": "EdgeEngine.EdgeEngineClient",
+                "usr": "c:@M@EdgeEngine@objc(cs)EdgeEngineClient"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@EdgeEngine@objc(cs)EdgeEngineClient(im)init",
+            "mangledName": "$s10EdgeEngine0aB6ClientCACycfc",
+            "moduleName": "EdgeEngine",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "kEdgeEngineExpectedVersion",
+            "printedName": "kEdgeEngineExpectedVersion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvpZ",
+            "mangledName": "$s10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvpZ",
+            "moduleName": "EdgeEngine",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvgZ",
+                "mangledName": "$s10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvgZ",
+                "moduleName": "EdgeEngine",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineExpectedVersion",
+            "printedName": "edgeEngineExpectedVersion()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC04edgeB15ExpectedVersionSSyFZ",
+            "mangledName": "$s10EdgeEngine0aB6ClientC04edgeB15ExpectedVersionSSyFZ",
+            "moduleName": "EdgeEngine",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCustomPortNumber",
+            "printedName": "setCustomPortNumber(number:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int32",
+                "printedName": "Swift.Int32",
+                "usr": "s:s5Int32V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC19setCustomPortNumber6numberSbs5Int32V_tFZ",
+            "mangledName": "$s10EdgeEngine0aB6ClientC19setCustomPortNumber6numberSbs5Int32V_tFZ",
+            "moduleName": "EdgeEngine",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startEdgeEngine",
+            "printedName": "startEdgeEngine(parameters:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<Swift.Bool, Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "StartupParameters",
+                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC05startaB010parameterss6ResultOySbSo7NSErrorCGAC17StartupParametersC_tYaF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC05startaB010parameterss6ResultOySbSo7NSErrorCGAC17StartupParametersC_tYaF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopEdgeEngine",
+            "printedName": "stopEdgeEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC04stopaB0yyF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC04stopaB0yyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "restartEdgeEngine",
+            "printedName": "restartEdgeEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<Swift.Bool, Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC07restartaB0s6ResultOySbSo7NSErrorCGyYaF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC07restartaB0s6ResultOySbSo7NSErrorCGyYaF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resetEdgeEngine",
+            "printedName": "resetEdgeEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC05resetaB0SbyF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC05resetaB0SbyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineIsRunning",
+            "printedName": "edgeEngineIsRunning()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC04edgeB9IsRunningSbyF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC04edgeB9IsRunningSbyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineParameters",
+            "printedName": "edgeEngineParameters()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "StartupParameters",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC04edgeB10ParametersAC07StartupE0CSgyF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC04edgeB10ParametersAC07StartupE0CSgyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineRuntimeIsManaged",
+            "printedName": "edgeEngineRuntimeIsManaged()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10EdgeEngine0aB6ClientC04edgeB16RuntimeIsManagedSbyF",
+            "mangledName": "$s10EdgeEngine0aB6ClientC04edgeB16RuntimeIsManagedSbyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "StartupParameters",
+            "printedName": "StartupParameters",
+            "children": [
+              {
+                "kind": "TypeDecl",
+                "name": "LogLevel",
+                "printedName": "LogLevel",
+                "children": [
+                  {
+                    "kind": "Var",
+                    "name": "trace",
+                    "printedName": "trace",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO5traceyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO5traceyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "debug",
+                    "printedName": "debug",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO5debugyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO5debugyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "info",
+                    "printedName": "info",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO4infoyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO4infoyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "warn",
+                    "printedName": "warn",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO4warnyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO4warnyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "error",
+                    "printedName": "error",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO5erroryA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO5erroryA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "critical",
+                    "printedName": "critical",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8criticalyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8criticalyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "off",
+                    "printedName": "off",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LogLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO3offyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO3offyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "rawValue",
+                    "printedName": "rawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Var",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8rawValueSSvp",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8rawValueSSvp",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessors": [
+                      {
+                        "kind": "Accessor",
+                        "name": "Get",
+                        "printedName": "Get()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "declKind": "Accessor",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8rawValueSSvg",
+                        "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8rawValueSSvg",
+                        "moduleName": "EdgeEngine",
+                        "implicit": true,
+                        "accessorKind": "get"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "Constructor",
+                    "name": "init",
+                    "printedName": "init(rawValue:)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LogLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Constructor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8rawValueAGSgSS_tcfc",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO8rawValueAGSgSS_tcfc",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "init_kind": "Designated"
+                  }
+                ],
+                "declKind": "Enum",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "enumRawTypeName": "String",
+                "conformances": [
+                  {
+                    "kind": "Conformance",
+                    "name": "Equatable",
+                    "printedName": "Equatable",
+                    "usr": "s:SQ",
+                    "mangledName": "$sSQ"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Hashable",
+                    "printedName": "Hashable",
+                    "usr": "s:SH",
+                    "mangledName": "$sSH"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "RawRepresentable",
+                    "printedName": "RawRepresentable",
+                    "children": [
+                      {
+                        "kind": "TypeWitness",
+                        "name": "RawValue",
+                        "printedName": "RawValue",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:SY",
+                    "mangledName": "$sSY"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Decodable",
+                    "printedName": "Decodable",
+                    "usr": "s:Se",
+                    "mangledName": "$sSe"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Encodable",
+                    "printedName": "Encodable",
+                    "usr": "s:SE",
+                    "mangledName": "$sSE"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeDecl",
+                "name": "NodeInfoLevel",
+                "printedName": "NodeInfoLevel",
+                "children": [
+                  {
+                    "kind": "Var",
+                    "name": "on",
+                    "printedName": "on",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NodeInfoLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "NodeInfoLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO2onyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO2onyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "off",
+                    "printedName": "off",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NodeInfoLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "NodeInfoLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO3offyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO3offyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "name",
+                    "printedName": "name",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NodeInfoLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "NodeInfoLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO4nameyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO4nameyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "hwInfoOnly",
+                    "printedName": "hwInfoOnly",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NodeInfoLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "NodeInfoLevel",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO02hwG4OnlyyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO02hwG4OnlyyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "rawValue",
+                    "printedName": "rawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Var",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO8rawValueSSvp",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO8rawValueSSvp",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessors": [
+                      {
+                        "kind": "Accessor",
+                        "name": "Get",
+                        "printedName": "Get()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "declKind": "Accessor",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO8rawValueSSvg",
+                        "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO8rawValueSSvg",
+                        "moduleName": "EdgeEngine",
+                        "implicit": true,
+                        "accessorKind": "get"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "Constructor",
+                    "name": "init",
+                    "printedName": "init(rawValue:)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NodeInfoLevel",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Constructor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO8rawValueAGSgSS_tcfc",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO8rawValueAGSgSS_tcfc",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "init_kind": "Designated"
+                  }
+                ],
+                "declKind": "Enum",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "enumRawTypeName": "String",
+                "conformances": [
+                  {
+                    "kind": "Conformance",
+                    "name": "Equatable",
+                    "printedName": "Equatable",
+                    "usr": "s:SQ",
+                    "mangledName": "$sSQ"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Hashable",
+                    "printedName": "Hashable",
+                    "usr": "s:SH",
+                    "mangledName": "$sSH"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "RawRepresentable",
+                    "printedName": "RawRepresentable",
+                    "children": [
+                      {
+                        "kind": "TypeWitness",
+                        "name": "RawValue",
+                        "printedName": "RawValue",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:SY",
+                    "mangledName": "$sSY"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Decodable",
+                    "printedName": "Decodable",
+                    "usr": "s:Se",
+                    "mangledName": "$sSe"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Encodable",
+                    "printedName": "Encodable",
+                    "usr": "s:SE",
+                    "mangledName": "$sSE"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeDecl",
+                "name": "LocalDiscovery",
+                "printedName": "LocalDiscovery",
+                "children": [
+                  {
+                    "kind": "Var",
+                    "name": "on",
+                    "printedName": "on",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LocalDiscovery",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LocalDiscovery",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO2onyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO2onyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "off",
+                    "printedName": "off",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery.Type) -> EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LocalDiscovery",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Metatype",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery.Type",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "LocalDiscovery",
+                                "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "declKind": "EnumElement",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO3offyA2GmF",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO3offyA2GmF",
+                    "moduleName": "EdgeEngine"
+                  },
+                  {
+                    "kind": "Constructor",
+                    "name": "init",
+                    "printedName": "init(rawValue:)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LocalDiscovery",
+                            "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Constructor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO8rawValueAGSgSS_tcfc",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO8rawValueAGSgSS_tcfc",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "init_kind": "Designated"
+                  },
+                  {
+                    "kind": "Var",
+                    "name": "rawValue",
+                    "printedName": "rawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Var",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO8rawValueSSvp",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO8rawValueSSvp",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessors": [
+                      {
+                        "kind": "Accessor",
+                        "name": "Get",
+                        "printedName": "Get()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "declKind": "Accessor",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO8rawValueSSvg",
+                        "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO8rawValueSSvg",
+                        "moduleName": "EdgeEngine",
+                        "implicit": true,
+                        "accessorKind": "get"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Enum",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "enumRawTypeName": "String",
+                "conformances": [
+                  {
+                    "kind": "Conformance",
+                    "name": "Equatable",
+                    "printedName": "Equatable",
+                    "usr": "s:SQ",
+                    "mangledName": "$sSQ"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Hashable",
+                    "printedName": "Hashable",
+                    "usr": "s:SH",
+                    "mangledName": "$sSH"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "RawRepresentable",
+                    "printedName": "RawRepresentable",
+                    "children": [
+                      {
+                        "kind": "TypeWitness",
+                        "name": "RawValue",
+                        "printedName": "RawValue",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:SY",
+                    "mangledName": "$sSY"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Decodable",
+                    "printedName": "Decodable",
+                    "usr": "s:Se",
+                    "mangledName": "$sSe"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Encodable",
+                    "printedName": "Encodable",
+                    "usr": "s:SE",
+                    "mangledName": "$sSE"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "logLevel",
+                "printedName": "logLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LogLevel",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0Ovp",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0Ovp",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LogLevel",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0Ovg",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0Ovg",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LogLevel",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0Ovs",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0Ovs",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0OvM",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8logLevelAE03LogG0OvM",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "nodeInfoLevel",
+                "printedName": "nodeInfoLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NodeInfoLevel",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0Ovp",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0Ovp",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NodeInfoLevel",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0Ovg",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0Ovg",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NodeInfoLevel",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0Ovs",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0Ovs",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0OvM",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC13nodeInfoLevelAE04NodegH0OvM",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "nodeName",
+                "printedName": "nodeName",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvp",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvp",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvg",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvg",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvs",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvs",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvM",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC8nodeNameSSvM",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "localDiscovery",
+                "printedName": "localDiscovery",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LocalDiscovery",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0Ovp",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0Ovp",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LocalDiscovery",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0Ovg",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0Ovg",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LocalDiscovery",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0Ovs",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0Ovs",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0OvM",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC14localDiscoveryAE05LocalG0OvM",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "license",
+                "printedName": "license",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvp",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvp",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvg",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvg",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvs",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvs",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvM",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC7licenseSSvM",
+                    "moduleName": "EdgeEngine",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "description",
+                "printedName": "description",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC11descriptionSSvp",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC11descriptionSSvp",
+                "moduleName": "EdgeEngine",
+                "overriding": true,
+                "objc_name": "description",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC",
+                  "AccessControl",
+                  "Override"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC11descriptionSSvg",
+                    "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC11descriptionSSvg",
+                    "moduleName": "EdgeEngine",
+                    "overriding": true,
+                    "objc_name": "description",
+                    "declAttributes": [
+                      "Dynamic",
+                      "ObjC"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(license:logLevel:nodeInfoLevel:nodeName:localDiscovery:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "StartupParameters",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LogLevel",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel",
+                    "hasDefaultArg": true,
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC8LogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NodeInfoLevel",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel",
+                    "hasDefaultArg": true,
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC13NodeInfoLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "hasDefaultArg": true,
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LocalDiscovery",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery",
+                    "hasDefaultArg": true,
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC14LocalDiscoveryO"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC7license8logLevel08nodeInfoH00I4Name14localDiscoveryAESS_AE03LogH0OAE04NodejH0OSSAE05LocalM0Otcfc",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC7license8logLevel08nodeInfoH00I4Name14localDiscoveryAESS_AE03LogH0OAE04NodejH0OSSAE05LocalM0Otcfc",
+                "moduleName": "EdgeEngine",
+                "declAttributes": [
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(coder:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "StartupParameters",
+                        "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters",
+                        "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSCoder",
+                    "printedName": "Foundation.NSCoder",
+                    "usr": "c:objc(cs)NSCoder"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC5coderAESgSo7NSCoderC_tcfc",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC5coderAESgSo7NSCoderC_tcfc",
+                "moduleName": "EdgeEngine",
+                "objc_name": "initWithCoder:",
+                "declAttributes": [
+                  "ObjC",
+                  "Convenience",
+                  "Required",
+                  "AccessControl"
+                ],
+                "init_kind": "Convenience"
+              },
+              {
+                "kind": "Function",
+                "name": "encode",
+                "printedName": "encode(with:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSCoder",
+                    "printedName": "Foundation.NSCoder",
+                    "usr": "c:objc(cs)NSCoder"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC6encode4withySo7NSCoderC_tF",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC6encode4withySo7NSCoderC_tF",
+                "moduleName": "EdgeEngine",
+                "objc_name": "encodeWithCoder:",
+                "declAttributes": [
+                  "ObjC",
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "StartupParameters",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersCAEycfc",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersCAEycfc",
+                "moduleName": "EdgeEngine",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "init",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC",
+                  "Override"
+                ],
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(from:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "StartupParameters",
+                    "printedName": "EdgeEngine.EdgeEngineClient.StartupParameters",
+                    "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Decoder",
+                    "printedName": "Swift.Decoder",
+                    "usr": "s:s7DecoderP"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC4fromAEs7Decoder_p_tKcfc",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC4fromAEs7Decoder_p_tKcfc",
+                "moduleName": "EdgeEngine",
+                "implicit": true,
+                "declAttributes": [
+                  "Required"
+                ],
+                "throwing": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Function",
+                "name": "encode",
+                "printedName": "encode(to:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Encoder",
+                    "printedName": "Swift.Encoder",
+                    "usr": "s:s7EncoderP"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC6encode2toys7Encoder_p_tKF",
+                "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC6encode2toys7Encoder_p_tKF",
+                "moduleName": "EdgeEngine",
+                "implicit": true,
+                "throwing": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Class",
+            "usr": "s:10EdgeEngine0aB6ClientC17StartupParametersC",
+            "mangledName": "$s10EdgeEngine0aB6ClientC17StartupParametersC",
+            "moduleName": "EdgeEngine",
+            "objc_name": "EdgeEngineClientStartupParameters",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "superclassUsr": "c:objc(cs)NSObject",
+            "superclassNames": [
+              "ObjectiveC.NSObject"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Decodable",
+                "printedName": "Decodable",
+                "usr": "s:Se",
+                "mangledName": "$sSe"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Encodable",
+                "printedName": "Encodable",
+                "usr": "s:SE",
+                "mangledName": "$sSE"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CVarArg",
+                "printedName": "CVarArg",
+                "usr": "s:s7CVarArgP",
+                "mangledName": "$ss7CVarArgP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObservingPublishing",
+                "printedName": "_KeyValueCodingAndObservingPublishing",
+                "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+                "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObserving",
+                "printedName": "_KeyValueCodingAndObserving",
+                "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+                "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomStringConvertible",
+                "printedName": "CustomStringConvertible",
+                "usr": "s:s23CustomStringConvertibleP",
+                "mangledName": "$ss23CustomStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomDebugStringConvertible",
+                "printedName": "CustomDebugStringConvertible",
+                "usr": "s:s28CustomDebugStringConvertibleP",
+                "mangledName": "$ss28CustomDebugStringConvertibleP"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@EdgeEngine@objc(cs)EdgeEngineClient",
+        "mangledName": "$s10EdgeEngine0aB6ClientC",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 283,
+      "length": 34,
+      "value": "\"com.mimik.MIMIKEdgeMobileClient.\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 409,
+      "length": 21,
+      "value": "\"customConfiguration\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 573,
+      "length": 75,
+      "value": "\"Stored edgeEngine license:<\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 618,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 622,
+      "length": 3,
+      "value": "\"...\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 642,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 646,
+      "length": 1,
+      "value": "\">\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 682,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1234,
+      "length": 28,
+      "value": "\"Removed edgeEngine license\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKLicenseManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1296,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 596,
+      "length": 5,
+      "value": "\"2.0\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "Array",
+      "offset": 681,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 898,
+      "length": 13,
+      "value": "\"\/jsonrpc\/v1\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1037,
+      "length": 14,
+      "value": "\"(path error)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1085,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1357,
+      "length": 8,
+      "value": "\"method\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1396,
+      "length": 9,
+      "value": "\"jsonrpc\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1433,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1460,
+      "length": 8,
+      "value": "\"params\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "FloatLiteral",
+      "offset": 1613,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1660,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1695,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1735,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1953,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1994,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 2451,
+      "length": 21,
+      "value": "\"response json error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 2506,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 2833,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3256,
+      "length": 8,
+      "value": "\"result\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3492,
+      "length": 10,
+      "value": "\"id_token\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3599,
+      "length": 11,
+      "value": "\"accountId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3679,
+      "length": 8,
+      "value": "\"status\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3817,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3933,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 3979,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 34,
+      "value": "\"com.mimik.MIMIKEdgeMobileClient.\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 419,
+      "length": 25,
+      "value": "\"customStartupParameters\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 755,
+      "length": 61,
+      "value": "\"Stored MIMIKStartupParameters data not found, returning nil\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 850,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 1141,
+      "length": 82,
+      "value": "\"Error decoding stored MIMIKStartupParameters data, returning default set instead\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 1257,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 1794,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 1835,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 2166,
+      "length": 39,
+      "value": "\"Removed edgeEngine startup parameters\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 2239,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 338,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 518,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 601,
+      "length": 46,
+      "value": "\"Unable to erase edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 681,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 722,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 806,
+      "length": 37,
+      "value": "\"Erased edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 877,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1045,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 2913,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 3230,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3401,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "StringLiteral",
+      "offset": 3424,
+      "length": 60,
+      "value": "\"Account already associated with a different account. Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeMisc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3492,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 481,
+      "length": 34,
+      "value": "\"External edgeEngine is activated\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 549,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 615,
+      "length": 34,
+      "value": "\"External edgeEngine is activated\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 657,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 797,
+      "length": 43,
+      "value": "\"edgeEngine startup is already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 874,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 940,
+      "length": 40,
+      "value": "\"edgeEngine startup already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 988,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1054,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1112,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1250,
+      "length": 28,
+      "value": "\"edgeEngine already running\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1312,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1767,
+      "length": 52,
+      "value": "\"getMe call error. Attempting to restart edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1853,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2036,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2045,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2137,
+      "length": 26,
+      "value": "\"edgeEngine restart error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2197,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2351,
+      "length": 28,
+      "value": "\"edgeEngine restart success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2413,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2556,
+      "length": 21,
+      "value": "\".getMe call success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2623,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2714,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2748,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2910,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2946,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3026,
+      "length": 28,
+      "value": "\"Unable to start edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3088,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3154,
+      "length": 28,
+      "value": "\"Unable to start edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3244,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3366,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3527,
+      "length": 40,
+      "value": "\"edgeEngine startup already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3601,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3642,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3706,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3905,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3990,
+      "length": 28,
+      "value": "\"Unable to establish nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4098,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4123,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 4246,
+      "length": 36,
+      "value": "\"Unable to establish nodeId (empty)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4362,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4387,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 4686,
+      "length": 55,
+      "value": "\"Unable to establish nodeId edgeEngineWorkingDirectory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4821,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4846,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5264,
+      "length": 74,
+      "value": "\"Specified nodeName is an empty string, using default device name instead\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5391,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5607,
+      "length": 54,
+      "value": "\"Effective startup parameters. \neffective node name:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5682,
+      "length": 33,
+      "value": "\"\neffective startup parameters:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5770,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5859,
+      "length": 30,
+      "value": "\"edgeEngine startup requested\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5923,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6262,
+      "length": 20,
+      "value": "\"edgeEngine startup\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6299,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6303,
+      "length": 9,
+      "value": "\"success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6315,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6345,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6397,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6469,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "Dictionary",
+      "offset": 6680,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6780,
+      "length": 13,
+      "value": "\"--log-level\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6929,
+      "length": 19,
+      "value": "\"--node-info-level\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 7237,
+      "length": 24,
+      "value": "\"--local-discovery-type\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 7265,
+      "length": 5,
+      "value": "\"mds\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 7416,
+      "length": 24,
+      "value": "\"--local-discovery-type\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 7444,
+      "length": 6,
+      "value": "\"none\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 7718,
+      "length": 24,
+      "value": "\"--jsonrpc-api-key-file\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeRestart.swift",
+      "kind": "StringLiteral",
+      "offset": 474,
+      "length": 37,
+      "value": "\"edgeEngine Startup parameters error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeRestart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 519,
+      "length": 3,
+      "value": "404"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 8,
+      "value": "\"v3.8.3\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1233,
+      "length": 5,
+      "value": "\"err\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1233,
+      "length": 5,
+      "value": "\"err\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1372,
+      "length": 4,
+      "value": "\"on\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1400,
+      "length": 5,
+      "value": "\"off\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1430,
+      "length": 11,
+      "value": "\"name_only\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1472,
+      "length": 14,
+      "value": "\"hw_info_only\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1372,
+      "length": 4,
+      "value": "\"on\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1400,
+      "length": 5,
+      "value": "\"off\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1430,
+      "length": 11,
+      "value": "\"name_only\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1472,
+      "length": 14,
+      "value": "\"hw_info_only\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1943,
+      "length": 10,
+      "value": "\"logLevel\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1987,
+      "length": 15,
+      "value": "\"nodeInfoLevel\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2031,
+      "length": 10,
+      "value": "\"nodeName\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2076,
+      "length": 22,
+      "value": "\"local-discovery-type\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2126,
+      "length": 9,
+      "value": "\"license\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2164,
+      "length": 9,
+      "value": "\"apiPort\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2201,
+      "length": 9,
+      "value": "\"workDir\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2245,
+      "length": 16,
+      "value": "\"edgeConfigFile\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2302,
+      "length": 22,
+      "value": "\"networkInterfaceName\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2355,
+      "length": 12,
+      "value": "\"sslApiPort\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2401,
+      "length": 15,
+      "value": "\"jsonrpcPubkey\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1943,
+      "length": 10,
+      "value": "\"logLevel\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1987,
+      "length": 15,
+      "value": "\"nodeInfoLevel\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2031,
+      "length": 10,
+      "value": "\"nodeName\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2076,
+      "length": 22,
+      "value": "\"local-discovery-type\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2126,
+      "length": 9,
+      "value": "\"license\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2164,
+      "length": 9,
+      "value": "\"apiPort\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2201,
+      "length": 9,
+      "value": "\"workDir\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2245,
+      "length": 16,
+      "value": "\"edgeConfigFile\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2302,
+      "length": 22,
+      "value": "\"networkInterfaceName\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2355,
+      "length": 12,
+      "value": "\"sslApiPort\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2401,
+      "length": 15,
+      "value": "\"jsonrpcPubkey\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2782,
+      "length": 150,
+      "value": "\"logLevel:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2808,
+      "length": 13,
+      "value": "\" nodeInfoLevel: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2845,
+      "length": 8,
+      "value": "\" nodeName: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2872,
+      "length": 14,
+      "value": "\" localDiscovery: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2911,
+      "length": 7,
+      "value": "\" license: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 2931,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 3991,
+      "length": 3,
+      "value": "\"-\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 5402,
+      "length": 30,
+      "value": "\"edgeEngine License Not Found\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
+      "kind": "StringLiteral",
+      "offset": 1020,
+      "length": 17,
+      "value": "\"EdgeEngine.StartupParameters\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 267,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 53,
+      "value": "\"Unable to establish edgeEngine nodeId lock filename\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 843,
+      "length": 70,
+      "value": "\"Saved edgeEngine nodeiId is an empty string. Establishing new nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1101,
+      "length": 112,
+      "value": "\"Unable to establish edgeEngine nodeId value. Specify eraseAllowed to reset edgeEngine and establish new nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1374,
+      "length": 17,
+      "value": "\"Current nodeId:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1441,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1677,
+      "length": 130,
+      "value": "\"Unable to read saved edgeEngine nodeId from: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1750,
+      "length": 1,
+      "value": "\" (\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1781,
+      "length": 1,
+      "value": "\". Establishing new nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1983,
+      "length": 172,
+      "value": "\"Unable to read saved edgeEngine nodeId from: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2056,
+      "length": 1,
+      "value": "\" (\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2087,
+      "length": 1,
+      "value": "\". Specify eraseAllowed to reset edgeEngine and establish new nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2554,
+      "length": 47,
+      "value": "\"Unable to establish edgeEngine vault filename\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2842,
+      "length": 62,
+      "value": "\"edgeEngine erase allowed since the storage doesn't exist yet\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2938,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2979,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 3239,
+      "length": 101,
+      "value": "\"edgeEngine vault file alredy exists, erasing edgeEngine working directory to establish a new nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 3374,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 3520,
+      "length": 46,
+      "value": "\"Unable to erase edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 3600,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 3845,
+      "length": 45,
+      "value": "\"Unable to establish a new edgeEngine nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 4193,
+      "length": 47,
+      "value": "\"Unable to establish edgeEngine vault file url\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 4274,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4315,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 4679,
+      "length": 53,
+      "value": "\"Unable to establish edgeEngine nodeId lock filename\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4781,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4873,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4930,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 5045,
+      "length": 48,
+      "value": "\"Unable to lock edgeEngine nodeId to: \""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 5092,
+      "length": 54,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5166,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 5416,
+      "length": 50,
+      "value": "\"Unable to establish edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 5586,
+      "length": 15,
+      "value": "\"\/.nodeId.lock\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 5921,
+      "length": 50,
+      "value": "\"Unable to establish edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 6091,
+      "length": 14,
+      "value": "\"\/.edge-vault\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 543,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 626,
+      "length": 33,
+      "value": "\"edgeEngine is already shut down\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 693,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 879,
+      "length": 41,
+      "value": "\"edgeEngine shutdown already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 954,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1057,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1129,
+      "length": 43,
+      "value": "\"Synchronous edgeEngine shutdown requested\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1206,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1335,
+      "length": 41,
+      "value": "\"Synchronous edgeEngine shutdown success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1410,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1484,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient.swift",
+      "kind": "BooleanLiteral",
+      "offset": 540,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient.swift",
+      "kind": "BooleanLiteral",
+      "offset": 601,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2349,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient.swift",
+      "kind": "StringLiteral",
+      "offset": 2545,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient.swift",
+      "kind": "StringLiteral",
+      "offset": 2581,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/EdgeEngineClient.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 16,
+      "value": "\"EdgeEngine.EdgeEngineClient\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1194,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1218,
+      "length": 33,
+      "value": "\"willEnterForegroundNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1285,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1534,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1558,
+      "length": 32,
+      "value": "\"didEnterBackgroundNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1624,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1868,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1892,
+      "length": 52,
+      "value": "\"willTerminateNotification, calling edgeEngine stop\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1978,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2277,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2301,
+      "length": 73,
+      "value": "\"protectedDataWillBecomeUnavailableNotification, calling edgeEngine stop\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2408,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2704,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2728,
+      "length": 71,
+      "value": "\"protectedDataDidBecomeAvailableNotification, calling edgeEngine start\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2833,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3001,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3025,
+      "length": 37,
+      "value": "\"edgeEngine Startup parameters Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3096,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3295,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3319,
+      "length": 25,
+      "value": "\"edgeEngine startup code\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeEngineClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3391,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 23,
+      "value": "\"success (already set)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 496,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 537,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 594,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 678,
+      "length": 12,
+      "value": "\"(lockfile)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 724,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 765,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 911,
+      "length": 9,
+      "value": "\"success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 954,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 991,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1114,
+      "length": 6,
+      "value": "49152"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1123,
+      "length": 6,
+      "value": "65535"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1795,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2063,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2118,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2264,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2278,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2501,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2609,
+      "length": 39,
+      "value": "\"Locking edgeEngine to a service link:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2720,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3034,
+      "length": 23,
+      "value": "\"\/.edgePortNumber.lock\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3303,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3589,
+      "length": 19,
+      "value": "\"http:\/\/127.0.0.1:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3611,
+      "length": 22,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3632,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3818,
+      "length": 6,
+      "value": "\"http\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3851,
+      "length": 11,
+      "value": "\"127.0.0.1\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4159,
+      "length": 17,
+      "value": "\"ws:\/\/127.0.0.1:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4179,
+      "length": 22,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4200,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4496,
+      "length": 34,
+      "value": "\"edgeEngineWorkingDirectory Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4564,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4605,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4792,
+      "length": 38,
+      "value": "\"edgeEngine working directory removed\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4864,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4905,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 5000,
+      "length": 45,
+      "value": "\"Error removing edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 5079,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5120,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 5417,
+      "length": 46,
+      "value": "\"Unable to establish jsonRpcApiKeyLockFileUrl\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 5497,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6042,
+      "length": 34,
+      "value": "\"edgeEngineWorkingDirectory Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6110,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6226,
+      "length": 22,
+      "value": "\"\/.jsonRpcApiKey.lock\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6587,
+      "length": 36,
+      "value": "\"Error locking a new jsonRpcApiKey:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6672,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6817,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6925,
+      "length": 30,
+      "value": "\"Locking a new jsonRpcApiKey:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7037,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7169,
+      "length": 36,
+      "value": "\"Error locking a new jsonRpcApiKey:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7254,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7535,
+      "length": 8,
+      "value": "\"(path)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7577,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7880,
+      "length": 9,
+      "value": "\"(value)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7923,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8421,
+      "length": 15,
+      "value": "\".edge-service\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 438,
+      "length": 34,
+      "value": "\"shouldManageRuntimeFileUrl Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 506,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 649,
+      "length": 140,
+      "value": "\"mimik Client Library Engine component will manage edgeEngine Runtime lifecycle automatically, based on application lifecycle notifications\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 823,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
+      "length": 81,
+      "value": "\"mimik Client Library Engine component won't manage edgeEngine Runtime lifecycle\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1145,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1472,
+      "length": 34,
+      "value": "\"shouldManageRuntimeFileUrl Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1540,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1581,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1912,
+      "length": 34,
+      "value": "\"edgeEngineWorkingDirectory Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1980,
+      "length": 20,
+      "value": "\"⚠️⚠️⚠️\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 2062,
+      "length": 34,
+      "value": "\"\/.edgeEngineShouldKeepAlive.lock\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/MIMIKPortManager+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 2196,
+      "length": 38,
+      "value": "\"\/.edgeEngineShouldManageRuntime.lock\""
+    }
+  ]
+}
