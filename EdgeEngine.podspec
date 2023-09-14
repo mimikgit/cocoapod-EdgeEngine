@@ -25,9 +25,6 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "EdgeEngine.xcframework", "edge.framework"
 
-  s.dependency 'Alamofire', '~> 5.7.1'
-  s.dependency 'SwiftyJSON', '~> 5.0.1'
-  s.dependency 'JWTDecode', '~> 3.0.1'
   s.dependency 'EdgeCore', '~> 5.0.0'
 
   s.platform = 'ios', '15.0'

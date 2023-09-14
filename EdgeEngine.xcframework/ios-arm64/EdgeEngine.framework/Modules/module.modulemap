@@ -1,7 +1,7 @@
 framework module EdgeEngine {
   umbrella header "EdgeEngine.h"
-
   export *
+
   module * { export * }
 }
 
