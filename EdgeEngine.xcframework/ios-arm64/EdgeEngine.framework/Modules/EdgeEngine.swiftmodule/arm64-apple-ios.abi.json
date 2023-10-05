@@ -311,8 +311,8 @@
           },
           {
             "kind": "Var",
-            "name": "kEdgeEngineExpectedVersion",
-            "printedName": "kEdgeEngineExpectedVersion",
+            "name": "kExpectedEdgeEngineVersion",
+            "printedName": "kExpectedEdgeEngineVersion",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -322,8 +322,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvpZ",
-            "mangledName": "$s10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvpZ",
+            "usr": "s:10EdgeEngine0aB6ClientC09kExpectedaB7VersionSSvpZ",
+            "mangledName": "$s10EdgeEngine0aB6ClientC09kExpectedaB7VersionSSvpZ",
             "moduleName": "EdgeEngine",
             "static": true,
             "declAttributes": [
@@ -349,8 +349,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvgZ",
-                "mangledName": "$s10EdgeEngine0aB6ClientC01kaB15ExpectedVersionSSvgZ",
+                "usr": "s:10EdgeEngine0aB6ClientC09kExpectedaB7VersionSSvgZ",
+                "mangledName": "$s10EdgeEngine0aB6ClientC09kExpectedaB7VersionSSvgZ",
                 "moduleName": "EdgeEngine",
                 "static": true,
                 "implicit": true,
@@ -364,8 +364,8 @@
           },
           {
             "kind": "Function",
-            "name": "edgeEngineExpectedVersion",
-            "printedName": "edgeEngineExpectedVersion()",
+            "name": "expectedEdgeEngineVersion",
+            "printedName": "expectedEdgeEngineVersion()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -375,8 +375,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10EdgeEngine0aB6ClientC04edgeB15ExpectedVersionSSyFZ",
-            "mangledName": "$s10EdgeEngine0aB6ClientC04edgeB15ExpectedVersionSSyFZ",
+            "usr": "s:10EdgeEngine0aB6ClientC08expectedaB7VersionSSyFZ",
+            "mangledName": "$s10EdgeEngine0aB6ClientC08expectedaB7VersionSSyFZ",
             "moduleName": "EdgeEngine",
             "static": true,
             "declAttributes": [
@@ -3310,7 +3310,7 @@
       "kind": "StringLiteral",
       "offset": 439,
       "length": 8,
-      "value": "\"v3.8.3\""
+      "value": "\"v3.8.4\""
     },
     {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",

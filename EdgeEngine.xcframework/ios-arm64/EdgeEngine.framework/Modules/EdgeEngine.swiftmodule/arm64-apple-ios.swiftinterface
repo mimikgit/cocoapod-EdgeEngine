@@ -13,8 +13,8 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 extension EdgeEngine.EdgeEngineClient {
-  public static let kEdgeEngineExpectedVersion: Swift.String
-  final public class func edgeEngineExpectedVersion() -> Swift.String
+  public static let kExpectedEdgeEngineVersion: Swift.String
+  final public class func expectedEdgeEngineVersion() -> Swift.String
   final public class func setCustomPortNumber(number: Swift.Int32) -> Swift.Bool
   #if compiler(>=5.3) && $AsyncAwait
   final public func startEdgeEngine(parameters: EdgeEngine.EdgeEngineClient.StartupParameters) async -> Swift.Result<Swift.Bool, Foundation.NSError>
