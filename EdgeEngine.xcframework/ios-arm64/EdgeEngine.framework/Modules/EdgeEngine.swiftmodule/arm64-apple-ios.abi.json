@@ -3310,7 +3310,7 @@
       "kind": "StringLiteral",
       "offset": 439,
       "length": 8,
-      "value": "\"v3.8.4\""
+      "value": "\"v3.8.5\""
     },
     {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Public\/StartupParameters+Public.swift",
