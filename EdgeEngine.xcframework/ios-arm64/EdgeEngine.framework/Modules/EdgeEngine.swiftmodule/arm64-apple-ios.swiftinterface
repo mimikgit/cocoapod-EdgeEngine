@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name EdgeEngine
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Alamofire
@@ -12,12 +12,12 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-extension EdgeEngine.EdgeEngineClient {
-  public static let kExpectedEdgeEngineVersion: Swift.String
-  final public class func expectedEdgeEngineVersion() -> Swift.String
-  final public class func setCustomPortNumber(number: Swift.Int32) -> Swift.Bool
+extension EdgeCore.EdgeClient : EdgeCore.EdgeEngineClient {
+  public static func expectedEdgeEngineVersion() -> Swift.String
+  public static func setCustomPort(number: Swift.Int32) -> Swift.Bool
+  public static func manageEdgeEngineRuntime(enable: Swift.Bool) throws
   #if compiler(>=5.3) && $AsyncAwait
-  final public func startEdgeEngine(parameters: EdgeEngine.EdgeEngineClient.StartupParameters) async -> Swift.Result<Swift.Bool, Foundation.NSError>
+  final public func startEdgeEngine(parameters: EdgeCore.EdgeClient.StartupParameters) async -> Swift.Result<Swift.Bool, Foundation.NSError>
   #endif
   final public func stopEdgeEngine()
   #if compiler(>=5.3) && $AsyncAwait
@@ -25,71 +25,6 @@ extension EdgeEngine.EdgeEngineClient {
   #endif
   final public func resetEdgeEngine() -> Swift.Bool
   final public func edgeEngineIsRunning() -> Swift.Bool
-  final public func edgeEngineParameters() -> EdgeEngine.EdgeEngineClient.StartupParameters?
+  final public func edgeEngineParameters() -> EdgeCore.EdgeClient.StartupParameters?
   final public func edgeEngineRuntimeIsManaged() -> Swift.Bool
 }
-extension EdgeEngine.EdgeEngineClient {
-  @objc(EdgeEngineClientStartupParameters) public class StartupParameters : ObjectiveC.NSObject, Foundation.NSCoding, Swift.Codable {
-    public enum LogLevel : Swift.String, Swift.Codable {
-      case trace
-      case debug
-      case info
-      case warn
-      case error
-      case critical
-      case off
-      public init?(rawValue: Swift.String)
-      public typealias RawValue = Swift.String
-      public var rawValue: Swift.String {
-        get
-      }
-    }
-    public enum NodeInfoLevel : Swift.String, Swift.Codable {
-      case on
-      case off
-      case name
-      case hwInfoOnly
-      public init?(rawValue: Swift.String)
-      public typealias RawValue = Swift.String
-      public var rawValue: Swift.String {
-        get
-      }
-    }
-    public enum LocalDiscovery : Swift.String, Swift.Codable {
-      case on
-      case off
-      public init?(rawValue: Swift.String)
-      public typealias RawValue = Swift.String
-      public var rawValue: Swift.String {
-        get
-      }
-    }
-    public var logLevel: EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel
-    public var nodeInfoLevel: EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel
-    public var nodeName: Swift.String
-    public var localDiscovery: EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery
-    public var license: Swift.String
-    @objc override dynamic public var description: Swift.String {
-      @objc get
-    }
-    public init(license: Swift.String, logLevel: EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel = .error, nodeInfoLevel: EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel = .off, nodeName: Swift.String = UIDevice.current.name + "-" + UIDevice.current.model, localDiscovery: EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery = .off)
-    @objc required convenience public init?(coder aDecoder: Foundation.NSCoder)
-    @objc public func encode(with aCoder: Foundation.NSCoder)
-    @objc deinit
-    public func encode(to encoder: any Swift.Encoder) throws
-    required public init(from decoder: any Swift.Decoder) throws
-  }
-}
-@objc final public class EdgeEngineClient : ObjectiveC.NSObject {
-  required public init?(manageRuntime: Swift.Bool = true)
-  @objc deinit
-}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel : Swift.Equatable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel : Swift.Hashable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.LogLevel : Swift.RawRepresentable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel : Swift.Equatable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel : Swift.Hashable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.NodeInfoLevel : Swift.RawRepresentable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery : Swift.Equatable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery : Swift.Hashable {}
-extension EdgeEngine.EdgeEngineClient.StartupParameters.LocalDiscovery : Swift.RawRepresentable {}
