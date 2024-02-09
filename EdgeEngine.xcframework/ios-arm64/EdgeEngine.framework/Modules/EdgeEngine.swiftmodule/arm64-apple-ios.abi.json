@@ -1554,7 +1554,7 @@
       "kind": "StringLiteral",
       "offset": 666,
       "length": 8,
-      "value": "\"v3.8.5\""
+      "value": "\"v3.9.2\""
     },
     {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",

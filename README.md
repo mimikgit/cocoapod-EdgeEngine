@@ -1,4 +1,28 @@
-# EdgeEngine
+# ``EdgeEngine``
+
+mimik Client Library provides a programmatic way to work with the edgeEngine Runtime to access information about the mobile device on which the application is running.
+
+@Metadata {
+    @CallToAction(purpose: link, url: "https://github.com/mimikgit/cocoapod-EdgeEngine")
+    @PageKind(article)
+    @PageColor(orange)
+}
+
+## Overview
+
+The purpose of the mimik Client Library is to provide a programmatic way to work with the edgeEngine Runtime to access information about the mobile device on which the application is running, as well as mobile devices running within a cluster of mobile devices that are hosting the edgeEngine Runtime. Also, to allow developers to use edge microservices running within a particular cluster.
+
+By leveraging the Core component of the mimik Client Library, developers can build applications compatible with the edgeEngine Runtime. This not only harnesses the strength of edge computing but also provides an inherent flexibility in its paradigm.
+
+Additionally, this component provides utility APIs that help developers with core operations such as Authentication, edgeEngine Runtime Setup, deployment of edge microservices and handling of Network calls.
+
+Furthermore, the mimik Client Library Engine component provides additional edgeEngine Runtime utility APIs, as well as vendoring the actual edgeEngine Runtime binary into the iOS project.
+
+## Documentation
+
+The full mimik client library EdgeClient documentation can be accessed from [GitHub Pages](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore) or the Xcode docc archive file can be downloaded as a [zip](https://github.com/mimikgit/cocoapod-EdgeCore/tree/main/EdgeCore.doccarchive.zip) and opened locally in Xcode.
+
+The EdgeEngineClient platform protocol part of the documentation can be access from [GitHub Pages](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeengineclient) 
 
 ## EdgeEngineClient Platform Protocol
 
@@ -15,21 +39,24 @@
 - ``EdgeEngineClient/expectedEdgeEngineVersion()``
 - ``EdgeEngineClient/setCustomPort(number:)``
 
-## Supported Platforms, Targets
-* `iOS devices running iOS 15+`
+For adding edgeEngine framework to your project please see: [EdgeEngine](https://github.com/mimikgit/cocoapod-EdgeEngine)
 
-**Mac Catalyst or iOS simulators are NOT supported**
+## Supported Platforms, Targets
+* `iOS Devices running iOS 15+`
+* `iOS Simulators running iOS 15+`
+* `iOS Mac Catalyst running macOS 12.0`
+
+For more information about working with an iOS Simulator [go here](https://devdocs.mimik.com/tutorials/12-index#workingwithaniossimulator)
 
 ## Requirements
 ```
 iOS 15.0+
-iOS Device
-EdgeCore pod
 ```
 
 ## Installation
 
 To install it, simply add the following lines to your Podfile:
+
 
 ```swift
 platform :ios, '15.0'
@@ -40,8 +67,8 @@ use_frameworks!
 inhibit_all_warnings!
 
 def mimik
-  pod 'EdgeEngine'
   pod 'EdgeCore'
+  pod 'EdgeEngine'
 end
 
 target '{target}' do
@@ -60,15 +87,22 @@ post_install do |installer|
 end
 ```
 
+
 ## Tutorial
 
-Visit this [tutorial](https://devdocs.mimik.com/tutorials/03-index) to learn more about the mimik client library and how to integrate it into your iOS project.
+Visit this [tutorial](https://devdocs.mimik.com/tutorials/11-index) to learn more about the mimik client library and how to integrate it into your iOS project.
 
-## mimik client and service libraries
+## Community
 
-Don't forget to checkout all mimik client and service libraries [available on Github](https://github.com/search?q=cocoapod-Edge)
+Don't forget to checkout all mimik client libraries at [mimik GitHub](https://github.com/mimikgit/).
+You can also read about other mimik activies
 
-Direct links:
+Umbrella cocoapods:
+
+ * [EdgeClientLibrary (Core + Engine)](https://github.com/mimikgit/cocoapod-EdgeClientLibrary)
+ * [EdgeClientLibraryTrial (Core + EngineTrial)](https://github.com/mimikgit/cocoapod-EdgeClientLibraryTrial)
+ 
+Individual cocoapods:
  
  * [EdgeCore](https://github.com/mimikgit/cocoapod-EdgeCore)
  * [EdgeEngine](https://github.com/mimikgit/cocoapod-EdgeEngine)
@@ -77,11 +111,8 @@ Direct links:
 
 ## Author
 
-mimik
-```
-https://developer.mimik.com
-```
+[mimik Technology Inc.](https://github.com/mimikgit/)
 
 ## License
 
-The aforementioned mimik client and service libraries are available under the MIT license. See the LICENSE file for more information.
+The aforementioned mimik client libraries are available under the MIT license. See the LICENSE file for more information.
