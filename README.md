@@ -8,6 +8,7 @@ mimik Client Library provides a programmatic way to work with the edgeEngine Run
     @PageColor(orange)
 }
 
+
 ## Overview
 
 The purpose of the mimik Client Library is to provide a programmatic way to work with the edgeEngine Runtime to access information about the mobile device on which the application is running, as well as mobile devices running within a cluster of mobile devices that are hosting the edgeEngine Runtime. Also, to allow developers to use edge microservices running within a particular cluster.
@@ -18,40 +19,18 @@ Additionally, this component provides utility APIs that help developers with cor
 
 Furthermore, the mimik Client Library Engine component provides additional edgeEngine Runtime utility APIs, as well as vendoring the actual edgeEngine Runtime binary into the iOS project.
 
-## Documentation
-
-The full mimik client library EdgeClient documentation can be accessed from [GitHub Pages](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore) or the Xcode docc archive file can be downloaded as a [zip](https://github.com/mimikgit/cocoapod-EdgeCore/tree/main/EdgeCore.doccarchive.zip) and opened locally in Xcode.
-
-The EdgeEngineClient platform protocol part of the documentation can be access from [GitHub Pages](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeengineclient) 
-
-## EdgeEngineClient Platform Protocol
-
-### Controlling the edgeEngine Runtime
-
-- ``EdgeEngineClient/startEdgeEngine(parameters:)``
-- ``EdgeEngineClient/stopEdgeEngine()``
-- ``EdgeEngineClient/restartEdgeEngine()``
-- ``EdgeEngineClient/resetEdgeEngine()``
-- ``EdgeEngineClient/edgeEngineIsRunning()``
-- ``EdgeEngineClient/edgeEngineRuntimeIsManaged()``
-- ``EdgeEngineClient/edgeEngineParameters()``
-- ``EdgeEngineClient/manageEdgeEngineRuntime(enable:)``
-- ``EdgeEngineClient/expectedEdgeEngineVersion()``
-- ``EdgeEngineClient/setCustomPort(number:)``
-
-For adding edgeEngine framework to your project please see: [EdgeEngine](https://github.com/mimikgit/cocoapod-EdgeEngine)
 
 ## Supported Platforms, Targets
 * `iOS Devices running iOS 15+`
 * `iOS Simulators running iOS 15+`
 * `iOS Mac Catalyst running macOS 12.0`
 
-For more information about working with an iOS Simulator [go here](https://devdocs.mimik.com/tutorials/12-index#workingwithaniossimulator)
 
 ## Requirements
 ```
 iOS 15.0+
 ```
+
 
 ## Installation
 
@@ -88,14 +67,25 @@ end
 ```
 
 
-## Tutorial
+## Tutorials
 
-Visit this [tutorial](https://devdocs.mimik.com/tutorials/11-index) to learn more about the mimik client library and how to integrate it into your iOS project.
+After installation, try the following tutorials:
 
-## Community
+- [Integrating the mimik Client Library into an iOS project](https://devdocs.mimik.com/tutorials/11-index)
+- [Working with edgeEngine in an iOS project](https://devdocs.mimik.com/tutorials/12-index)
+- [Working with edge microservices in an iOS project](https://devdocs.mimik.com/tutorials/13-index)
+- [Creating a Simple iOS Application that Uses an edge microservice](https://devdocs.mimik.com/tutorials/10-index)
 
-Don't forget to checkout all mimik client libraries at [mimik GitHub](https://github.com/mimikgit/).
-You can also read about other mimik activies
+
+## Online API Reference Documentation
+
+The full API reference documentation can be found at [GitHub Pages](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore). 
+
+Alternatively the Xcode docc archive file can be downloaded as a [zip](https://github.com/mimikgit/cocoapod-EdgeCore/tree/main/EdgeCore.doccarchive.zip) and opened locally.
+
+## mimik client libraries
+
+Don't forget to checkout all mimik client libraries [available on Github](https://github.com/search?q=cocoapod-Edge)
 
 Umbrella cocoapods:
 
@@ -111,8 +101,12 @@ Individual cocoapods:
 
 ## Author
 
-[mimik Technology Inc.](https://github.com/mimikgit/)
+mimik
+
+```
+https://github.com/mimikgit/cocoapod-EdgeCore
+```
 
 ## License
 
-The aforementioned mimik client libraries are available under the MIT license. See the LICENSE file for more information.
+The aforementioned mimik client and service libraries are available under the MIT license. See the LICENSE file for more information.
