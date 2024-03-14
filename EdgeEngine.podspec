@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "EdgeEngine"
-  s.version      = "5.2.0"
+  s.version      = "5.3.1"
   s.summary      = "mimik client library"
 
   s.description  = <<-DESC
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "EdgeEngine.xcframework", "edge.framework"
 
-  s.dependency 'EdgeCore', '~> 5.2.0'
+  s.dependency 'EdgeCore', '~> 5.3.1'
 
   s.platform = 'ios', '15.0'
 end

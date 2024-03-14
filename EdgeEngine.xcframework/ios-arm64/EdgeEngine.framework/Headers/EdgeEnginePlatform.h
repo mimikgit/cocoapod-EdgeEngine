@@ -1,17 +1,9 @@
-#import "Foundation/Foundation.h"
+//
+//  EdgeClient.h
+//  EdgeClient
+//
+//  Created by Radúz Benický on 2020-02-11.
+//  Copyright © 2020 mimik. All rights reserved.
+//
 
-@interface EdgeEnginePlatform : NSObject {
-    
-}
-
-- (int)startWith:(int)port
-           nodeId:(NSString *)nodeId
-         nodeName:(NSString *)name
-    licenseString:(NSString *)license
- workingDirectory:(NSString *)workingDirectory
-startupParameters:(NSDictionary *)startupParameters;
-
-- (void)stop;
-- (int)getStatus;
-
-@end
+#import <Foundation/Foundation.h>
