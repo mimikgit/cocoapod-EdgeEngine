@@ -9,11 +9,16 @@
 Pod::Spec.new do |s|
 
   s.name         = "EdgeEngine"
-  s.version      = "5.3.1"
+  s.version      = "5.4.0"
   s.summary      = "mimik client library"
 
   s.description  = <<-DESC
- EdgeEngine library can help you interact with the mimik edgeEngine framework. The actual ARM64 binary of edgeEngine can be found inside the vendored edge.framework.
+ The purpose of the mimik Client Library for iOS is to provide a programmatic way to work with the edgeEngine Runtime to access information about the mobile device on which the application is running, as well as mobile devices running within a cluster of mobile devices that are hosting the edgeEngine Runtime. Also, to allow developers to use edge microservices running within a particular cluster.
+
+The mimik Client Library for iOS suite consists of three individual cocoapod components:
+    - EdgeCore
+    - EdgeEngine (or EdgeEngineDeveloper)
+    - EdgeUser
   DESC
 
   s.homepage     = "https://github.com/mimikgit/cocoapod-EdgeEngine"
@@ -25,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "EdgeEngine.xcframework", "edge.framework"
 
-  s.dependency 'EdgeCore', '~> 5.3.1'
+  s.dependency 'EdgeCore', '~> 5.4.0'
 
   s.platform = 'ios', '15.0'
 end

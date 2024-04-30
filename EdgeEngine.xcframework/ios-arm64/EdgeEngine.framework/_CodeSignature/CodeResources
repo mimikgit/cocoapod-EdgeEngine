@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/EdgeEngine-Swift.h</key>
 		<data>
-		bvUJ4RMLoCVeVRnjw4kfLFhAp0Y=
+		9MCkHohIRmPcIeXqvgmlr6+i6pc=
 		</data>
 		<key>Headers/EdgeEngine.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FumF90Y0RQpqm9y/xlsfXVWH7hs=
+		7NhXeth2eDNxsddyH5esGdf45rQ=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		BRInN8/J8ZQS15VmiOzxPHX/9tI=
+		2tE9RXQNOermI5p30yN3sAtJs9U=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XCzBqACDXlaKWL9CtyRmjzyLK84=
+		TsnZ9RGqeX2gjwR7vCsEzKufgoc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6vdYCZMhQMYVsvKhiGVW4lLQojUBgcWtk9o3+I3is3s=
+			S6GJmWtuA5Xxcid1ueCcDluHOzzmWH9Nduvw9mGgV2w=
 			</data>
 		</dict>
 		<key>Headers/EdgeEngine.h</key>
@@ -98,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			InDLn5z9nwQSmu1MqlmRnVTVGBQh0iuBO4t1dhUc45Y=
+			1fSjZKmQvnCFHmfSHQEV2/BRwqyCV6XynxMSE6gLb6I=
 			</data>
 		</dict>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -126,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ahsE+8H0UpIfK81BljLg+44ShGhfi8nRW/9y7UXJbZs=
+			V2d/sASSJ1zPOWu/7L9FwXLfaAdzBdDcC5c1BnX7LAw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

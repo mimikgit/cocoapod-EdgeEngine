@@ -714,28 +714,21 @@
     {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
       "kind": "BooleanLiteral",
-      "offset": 3396,
+      "offset": 289,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
       "kind": "BooleanLiteral",
-      "offset": 247,
+      "offset": 3732,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+Internal.swift",
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
       "kind": "BooleanLiteral",
-      "offset": 355,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-edge-engine\/EdgeEngine\/Internal\/EdgeClient+Internal.swift",
-      "kind": "BooleanLiteral",
-      "offset": 423,
+      "offset": 276,
       "length": 5,
       "value": "false"
     }
